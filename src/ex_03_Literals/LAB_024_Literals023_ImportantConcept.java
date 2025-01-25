@@ -1,4 +1,4 @@
-package Literals;
+package ex_03_Literals;
 
 public class LAB_024_Literals023_ImportantConcept {
 

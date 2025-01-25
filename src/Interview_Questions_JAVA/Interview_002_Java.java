@@ -1,6 +1,6 @@
 package Interview_Questions_JAVA;
 
-public class QnA_002_Java {
+public class Interview_002_Java {
 
     //        int enum = 10; //'enum' is a keyword
 //        System.out.println(enum);

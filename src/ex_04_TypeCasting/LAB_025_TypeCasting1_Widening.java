@@ -1,4 +1,4 @@
-package TypeCasting;
+package ex_04_TypeCasting;
 
 public class LAB_025_TypeCasting1_Widening {
     public static void main(String[] args) {

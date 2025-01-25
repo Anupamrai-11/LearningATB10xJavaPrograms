@@ -1,4 +1,4 @@
-package TypeCasting;
+package ex_04_TypeCasting;
 
 public class LAB_028_TypeCasting3 {
 
