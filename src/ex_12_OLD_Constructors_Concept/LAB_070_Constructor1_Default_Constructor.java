@@ -1,4 +1,4 @@
-package ex_12_Constructors;
+package ex_12_OLD_Constructors_Concept;
 
 public class LAB_070_Constructor1_Default_Constructor {
     public static void main(String[] args) {

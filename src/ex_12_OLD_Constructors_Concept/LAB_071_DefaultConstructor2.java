@@ -1,11 +1,11 @@
-package ex_12_Constructors;
+package ex_12_OLD_Constructors_Concept;
 
 public class LAB_071_DefaultConstructor2 {
     public static void main(String[] args) {
                B a3 = new B();
                a3.display();
                C a4=new C();
-               a4.display1();
+              a4.display();
     }
 }
 class B {
@@ -31,7 +31,7 @@ class C {
         s = "Java";
     }
 
-    void display1() {
+    void display() {
         System.out.println("Hi");
     }
 }
